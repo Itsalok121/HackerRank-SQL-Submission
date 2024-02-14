@@ -8,6 +8,7 @@ Write a query to find the node type of Binary Tree ordered by the value of the n
     Leaf: If node is leaf node.
     Inner: If node is neither root nor leaf node.
 
+Hackerrank link: https://www.hackerrank.com/challenges/binary-search-tree-1/problem
 */
 
 select 
